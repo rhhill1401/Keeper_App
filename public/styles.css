@@ -5,6 +5,7 @@
 }
 html {
   font-family: 'Montserrat', sans-serif;
+  color: #333;
 }
 body {
   background: #eee;
@@ -45,7 +46,7 @@ footer p {
   float: left;
 }
 .note h1 {
-  font-size: 1.1em;
+  font-size: 1.2em;
   margin-bottom: 6px;
 }
 .note p {
